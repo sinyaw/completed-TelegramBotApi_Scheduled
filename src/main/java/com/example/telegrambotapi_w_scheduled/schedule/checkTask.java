@@ -29,7 +29,7 @@ public class checkTask {
 
         //https://core.telegram.org/bots/samples
         //https://github.com/pengrad/java-telegram-bot-api
-        TelegramBot bot = new TelegramBot("5325758873:AAHJHxcnSiERy8VuxOPqPjQ5qfIHrmOpi8M");
+        TelegramBot bot = new TelegramBot("6479838036:AAHYlU3DAgqNsDIaC-_FqWMnilcz3PCvx6M");
 
         String test = "Now it is " + LocalTime.now() + ": " + UUID.randomUUID();
         //log.info("check message:{}", test);
